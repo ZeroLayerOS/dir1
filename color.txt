@@ -2,3 +2,4 @@ bluegit
 yellow
 orange
 red
+white
